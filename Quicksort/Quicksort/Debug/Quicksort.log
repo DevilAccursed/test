@@ -1,0 +1,4 @@
+﻿  Quicksort.cpp
+c:\users\user\desktop\quicksort\quicksort\quicksort.cpp(22): warning C4244: инициализация: преобразование "double" в "int", возможна потеря данных
+c:\users\user\desktop\quicksort\quicksort\quicksort.cpp(37): warning C4244: инициализация: преобразование "double" в "int", возможна потеря данных
+  Quicksort.vcxproj -> C:\Users\User\Desktop\Quicksort\Debug\Quicksort.exe
